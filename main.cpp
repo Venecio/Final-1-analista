@@ -376,4 +376,5 @@ a � abre el archivo para agregar informaci�n (si no existe lo crea).
 r+ � abre el archivo para lectura/escritura (comienza al principio del archivo).
 w+ � abre el archivo para lectura/escritura, sobre-escribe el archivo si este ya existe o lo crea si no).
 a+ � abre el archivo para lectura/escritura (se sit�a al final del archivo).
+Ejercicio realizado en c++ por Cristian Pessio Alumno AS.
 */
