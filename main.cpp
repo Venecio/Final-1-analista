@@ -1,3 +1,4 @@
+//Programa almacen de juegos, busca, modifica y elimina;
 #include <iostream>
 #include <conio.h>
 #include <cstdio>
